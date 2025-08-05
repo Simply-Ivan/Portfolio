@@ -1,7 +1,11 @@
 
-nums = [2,7,11,15]
+'''
+Two Sum
+'''
 
-target = 9
+nums = [2,1,5,3]
+
+target = 4
 
 def two_sum(nums, target):
     
